@@ -4,6 +4,7 @@
 body {
   color: #333333;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #f5eeee;
 }
 
 a, a:active, a:visited {
@@ -29,7 +30,7 @@ footer p {
 }
 
 header {
-  background: #f0f0f0;
+  background: #e5e0e0;
   border-bottom: 1px solid #999999;
   height: 60px;
   position: relative;
@@ -38,7 +39,7 @@ header {
 
 header h1 {
   float: left;
-  font-size: 1.75rem;
+  font-size: 32px;
   font-weight: 300;
   margin: 0;
 }
